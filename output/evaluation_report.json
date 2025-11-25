@@ -1,0 +1,211 @@
+{
+  "method": "KGEB Baseline",
+  "timestamp": "2025-11-25T10:18:18.524444",
+  "entity_evaluation": {
+    "schema_compliance": "100.00%",
+    "total_entities": 164,
+    "f1_score": null,
+    "precision": null,
+    "recall": null,
+    "details": {
+      "schema_compliance": {
+        "compliant": true,
+        "coverage": 1.0,
+        "issues": [],
+        "details": {
+          "Person": {
+            "expected_attributes": [
+              "name",
+              "age",
+              "position",
+              "department"
+            ],
+            "compliant_count": 30,
+            "total_count": 30,
+            "attribute_issues": [],
+            "compliance_rate": 1.0
+          },
+          "Company": {
+            "expected_attributes": [
+              "name",
+              "industry",
+              "sector",
+              "location"
+            ],
+            "compliant_count": 23,
+            "total_count": 23,
+            "attribute_issues": [],
+            "compliance_rate": 1.0
+          },
+          "Project": {
+            "expected_attributes": [
+              "name",
+              "start_date",
+              "end_date",
+              "status",
+              "budget"
+            ],
+            "compliant_count": 72,
+            "total_count": 72,
+            "attribute_issues": [],
+            "compliance_rate": 1.0
+          },
+          "Department": {
+            "expected_attributes": [
+              "name",
+              "head",
+              "employee_count"
+            ],
+            "compliant_count": 5,
+            "total_count": 5,
+            "attribute_issues": [],
+            "compliance_rate": 1.0
+          },
+          "Position": {
+            "expected_attributes": [
+              "title",
+              "level",
+              "salary_range"
+            ],
+            "compliant_count": 30,
+            "total_count": 30,
+            "attribute_issues": [],
+            "compliance_rate": 1.0
+          },
+          "Technology": {
+            "expected_attributes": [
+              "name",
+              "category",
+              "version"
+            ],
+            "compliant_count": 4,
+            "total_count": 4,
+            "attribute_issues": [],
+            "compliance_rate": 1.0
+          },
+          "Location": {
+            "expected_attributes": [
+              "city",
+              "country",
+              "office_type"
+            ],
+            "compliant_count": 0,
+            "total_count": 0,
+            "attribute_issues": [],
+            "compliance_rate": 0.0
+          },
+          "Team": {
+            "expected_attributes": [
+              "name",
+              "size",
+              "focus_area"
+            ],
+            "compliant_count": 0,
+            "total_count": 0,
+            "attribute_issues": [],
+            "compliance_rate": 0.0
+          },
+          "Product": {
+            "expected_attributes": [
+              "name",
+              "version",
+              "release_date"
+            ],
+            "compliant_count": 0,
+            "total_count": 0,
+            "attribute_issues": [],
+            "compliance_rate": 0.0
+          },
+          "Client": {
+            "expected_attributes": [
+              "name",
+              "contract_value",
+              "industry"
+            ],
+            "compliant_count": 0,
+            "total_count": 0,
+            "attribute_issues": [],
+            "compliance_rate": 0.0
+          }
+        }
+      },
+      "statistics": {
+        "total_entities": 164,
+        "by_type": {
+          "Person": 30,
+          "Company": 23,
+          "Project": 72,
+          "Department": 5,
+          "Position": 30,
+          "Technology": 4,
+          "Location": 0,
+          "Team": 0,
+          "Product": 0,
+          "Client": 0
+        },
+        "attribute_completeness": {
+          "Person": "100.00%",
+          "Company": "100.00%",
+          "Project": "100.00%",
+          "Department": "0.00%",
+          "Position": "100.00%",
+          "Technology": "100.00%",
+          "Location": "0.00%",
+          "Team": "0.00%",
+          "Product": "0.00%",
+          "Client": "0.00%"
+        }
+      },
+      "performance": {
+        "precision": null,
+        "recall": null,
+        "f1_score": null,
+        "note": "Ground truth not provided"
+      }
+    }
+  },
+  "relation_evaluation": {
+    "schema_compliance": "26.67%",
+    "total_relations": 309,
+    "f1_score": null,
+    "precision": null,
+    "recall": null,
+    "logical_consistency": {
+      "consistent": true,
+      "issues": []
+    },
+    "details": {
+      "schema_compliance": {
+        "compliant": true,
+        "coverage": 0.26666666666666666,
+        "issues": [
+          "Missing relation types: ['ProjectHasTeam', 'TeamMember', 'ClientHasContract', 'LocationContainsLocation', 'CompanyPartnersWith', 'ClientInLocation', 'CompanyLocatedIn', 'LocatedIn', 'LeadsTeam', 'CompanyDevelopsProduct']"
+        ],
+        "details": {}
+      },
+      "logical_consistency": {
+        "consistent": true,
+        "issues": []
+      },
+      "statistics": {
+        "total_relations": 309,
+        "by_type": {
+          "WorksAt": 30,
+          "BelongsToDepartment": 30,
+          "HasPosition": 30,
+          "ManagesProject": 72,
+          "CompanyHasDepartment": 105,
+          "ProjectUsesTechnology": 7,
+          "PositionInDepartment": 7,
+          "CompanyUsesTechnology": 28
+        }
+      },
+      "performance": {
+        "precision": null,
+        "recall": null,
+        "f1_score": null,
+        "note": "Ground truth not provided"
+      }
+    }
+  }
+}

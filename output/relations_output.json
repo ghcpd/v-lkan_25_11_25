@@ -1,0 +1,1681 @@
+{
+  "WorksAt": [
+    {
+      "person": "John Doe",
+      "company": "OpenAI",
+      "position": "Researcher",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Jane Smith",
+      "company": "Google",
+      "position": "Engineer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Michael Brown",
+      "company": "Microsoft",
+      "position": "Senior Developer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Sarah Wilson",
+      "company": "Apple",
+      "position": "Product Manager",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "David Johnson",
+      "company": "Amazon",
+      "position": "Data Scientist",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Emily Davis",
+      "company": "Meta",
+      "position": "UX Designer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Robert Miller",
+      "company": "Tesla",
+      "position": "AI Specialist",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Lisa Garcia",
+      "company": "Netflix",
+      "position": "Software Engineer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "James Rodriguez",
+      "company": "Spotify",
+      "position": "Backend Developer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Maria Martinez",
+      "company": "Uber",
+      "position": "Systems Architect",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Tom Anderson",
+      "company": "IBM",
+      "position": "Cloud Architect",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Rachel Green",
+      "company": "Oracle",
+      "position": "Database Administrator",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Kevin Lee",
+      "company": "Salesforce",
+      "position": "DevOps Engineer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Anna Thompson",
+      "company": "Adobe",
+      "position": "Creative Director",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Mark Davis",
+      "company": "Intel",
+      "position": "Hardware Engineer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Susan Clark",
+      "company": "Cisco",
+      "position": "Network Specialist",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Paul Wilson",
+      "company": "HP",
+      "position": "Systems Administrator",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Jennifer Moore",
+      "company": "Dell",
+      "position": "Technical Support Lead",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Steven Taylor",
+      "company": "VMware",
+      "position": "Virtualization Expert",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Michelle White",
+      "company": "RedHat",
+      "position": "Linux Administrator",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Daniel Kim",
+      "company": "Airbnb",
+      "position": "Full Stack Developer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Catherine Jones",
+      "company": "Twitter",
+      "position": "Frontend Developer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Andrew Chen",
+      "company": "LinkedIn",
+      "position": "Data Engineer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Sophia Rodriguez",
+      "company": "Pinterest",
+      "position": "Mobile Developer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Nathan Williams",
+      "company": "Dropbox",
+      "position": "Security Engineer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Olivia Brown",
+      "company": "Slack",
+      "position": "Product Designer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Christopher Davis",
+      "company": "Zoom",
+      "position": "Video Technology Specialist",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Amanda Miller",
+      "company": "Shopify",
+      "position": "E-commerce Developer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Ryan Garcia",
+      "company": "Square",
+      "position": "Payment Systems Engineer",
+      "start_date": "Unknown"
+    },
+    {
+      "person": "Jessica Wilson",
+      "company": "DocuSign",
+      "position": "API Developer",
+      "start_date": "Unknown"
+    }
+  ],
+  "BelongsToDepartment": [
+    {
+      "person": "John Doe",
+      "department": "R&D",
+      "role": "Researcher",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Jane Smith",
+      "department": "Engineering",
+      "role": "Engineer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Michael Brown",
+      "department": "Engineering",
+      "role": "Senior Developer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Sarah Wilson",
+      "department": "Management",
+      "role": "Product Manager",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "David Johnson",
+      "department": "R&D",
+      "role": "Data Scientist",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Emily Davis",
+      "department": "Design",
+      "role": "UX Designer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Robert Miller",
+      "department": "General",
+      "role": "AI Specialist",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Lisa Garcia",
+      "department": "Engineering",
+      "role": "Software Engineer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "James Rodriguez",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Maria Martinez",
+      "department": "Engineering",
+      "role": "Systems Architect",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Tom Anderson",
+      "department": "Engineering",
+      "role": "Cloud Architect",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Rachel Green",
+      "department": "Support",
+      "role": "Database Administrator",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Kevin Lee",
+      "department": "Engineering",
+      "role": "DevOps Engineer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Anna Thompson",
+      "department": "Management",
+      "role": "Creative Director",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Mark Davis",
+      "department": "Engineering",
+      "role": "Hardware Engineer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Susan Clark",
+      "department": "General",
+      "role": "Network Specialist",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Paul Wilson",
+      "department": "Support",
+      "role": "Systems Administrator",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Jennifer Moore",
+      "department": "Engineering",
+      "role": "Technical Support Lead",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Steven Taylor",
+      "department": "General",
+      "role": "Virtualization Expert",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Michelle White",
+      "department": "Design",
+      "role": "Linux Administrator",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Daniel Kim",
+      "department": "Engineering",
+      "role": "Full Stack Developer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Catherine Jones",
+      "department": "Engineering",
+      "role": "Frontend Developer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Andrew Chen",
+      "department": "Engineering",
+      "role": "Data Engineer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Sophia Rodriguez",
+      "department": "Engineering",
+      "role": "Mobile Developer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Nathan Williams",
+      "department": "Engineering",
+      "role": "Security Engineer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Olivia Brown",
+      "department": "Design",
+      "role": "Product Designer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Christopher Davis",
+      "department": "General",
+      "role": "Video Technology Specialist",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Amanda Miller",
+      "department": "Engineering",
+      "role": "E-commerce Developer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Ryan Garcia",
+      "department": "Engineering",
+      "role": "Payment Systems Engineer",
+      "join_date": "Unknown"
+    },
+    {
+      "person": "Jessica Wilson",
+      "department": "Engineering",
+      "role": "API Developer",
+      "join_date": "Unknown"
+    }
+  ],
+  "HasPosition": [
+    {
+      "person": "John Doe",
+      "position": "Researcher",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Jane Smith",
+      "position": "Engineer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Michael Brown",
+      "position": "Senior Developer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Sarah Wilson",
+      "position": "Product Manager",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "David Johnson",
+      "position": "Data Scientist",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Emily Davis",
+      "position": "UX Designer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Robert Miller",
+      "position": "AI Specialist",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Lisa Garcia",
+      "position": "Software Engineer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "James Rodriguez",
+      "position": "Backend Developer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Maria Martinez",
+      "position": "Systems Architect",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Tom Anderson",
+      "position": "Cloud Architect",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Rachel Green",
+      "position": "Database Administrator",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Kevin Lee",
+      "position": "DevOps Engineer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Anna Thompson",
+      "position": "Creative Director",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Mark Davis",
+      "position": "Hardware Engineer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Susan Clark",
+      "position": "Network Specialist",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Paul Wilson",
+      "position": "Systems Administrator",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Jennifer Moore",
+      "position": "Technical Support Lead",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Steven Taylor",
+      "position": "Virtualization Expert",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Michelle White",
+      "position": "Linux Administrator",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Daniel Kim",
+      "position": "Full Stack Developer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Catherine Jones",
+      "position": "Frontend Developer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Andrew Chen",
+      "position": "Data Engineer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Sophia Rodriguez",
+      "position": "Mobile Developer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Nathan Williams",
+      "position": "Security Engineer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Olivia Brown",
+      "position": "Product Designer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Christopher Davis",
+      "position": "Video Technology Specialist",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Amanda Miller",
+      "position": "E-commerce Developer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Ryan Garcia",
+      "position": "Payment Systems Engineer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    },
+    {
+      "person": "Jessica Wilson",
+      "position": "API Developer",
+      "tenure": "Unknown",
+      "promotion_date": "Unknown"
+    }
+  ],
+  "ManagesProject": [
+    {
+      "person": "John Doe",
+      "project": "Alpha",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "John Doe",
+      "project": "Beta",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "John Doe",
+      "project": "Gamma",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Jane Smith",
+      "project": "Delta",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Jane Smith",
+      "project": "Epsilon",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Michael Brown",
+      "project": "Zeta",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Michael Brown",
+      "project": "Eta",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Michael Brown",
+      "project": "Theta",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Michael Brown",
+      "project": "Iota",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Sarah Wilson",
+      "project": "Kappa",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "David Johnson",
+      "project": "Lambda",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "David Johnson",
+      "project": "Mu",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "David Johnson",
+      "project": "Nu",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "David Johnson",
+      "project": "Xi",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "David Johnson",
+      "project": "Omicron",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Emily Davis",
+      "project": "Pi",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Emily Davis",
+      "project": "Rho",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Robert Miller",
+      "project": "Sigma",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Robert Miller",
+      "project": "Tau",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Robert Miller",
+      "project": "Upsilon",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Lisa Garcia",
+      "project": "Phi",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "James Rodriguez",
+      "project": "Chi",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "James Rodriguez",
+      "project": "Psi",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "James Rodriguez",
+      "project": "Omega",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "James Rodriguez",
+      "project": "Alpha-2",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Maria Martinez",
+      "project": "Beta-2",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Maria Martinez",
+      "project": "Gamma-2",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Tom Anderson",
+      "project": "Nova",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Tom Anderson",
+      "project": "Stellar",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Rachel Green",
+      "project": "Cosmic",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Rachel Green",
+      "project": "Galactic",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Rachel Green",
+      "project": "Universal",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Kevin Lee",
+      "project": "Quantum",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Anna Thompson",
+      "project": "Photon",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Anna Thompson",
+      "project": "Electron",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Anna Thompson",
+      "project": "Neutron",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Anna Thompson",
+      "project": "Proton",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Mark Davis",
+      "project": "Circuit",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Mark Davis",
+      "project": "Binary",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Susan Clark",
+      "project": "Network-A",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Susan Clark",
+      "project": "Network-B",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Susan Clark",
+      "project": "Network-C",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Paul Wilson",
+      "project": "Server-Prime",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Jennifer Moore",
+      "project": "Support-Alpha",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Jennifer Moore",
+      "project": "Support-Beta",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Steven Taylor",
+      "project": "Virtual-X",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Steven Taylor",
+      "project": "Virtual-Y",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Steven Taylor",
+      "project": "Virtual-Z",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Michelle White",
+      "project": "Linux-Core",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Daniel Kim",
+      "project": "AirFlow",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Daniel Kim",
+      "project": "AirStream",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Daniel Kim",
+      "project": "AirSync",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Catherine Jones",
+      "project": "TweetDeck-2",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Catherine Jones",
+      "project": "TwitterAPI-v3",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Andrew Chen",
+      "project": "LinkedData",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Andrew Chen",
+      "project": "ProfileEngine",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Andrew Chen",
+      "project": "NetworkGraph",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Andrew Chen",
+      "project": "JobMatcher",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Sophia Rodriguez",
+      "project": "PinBoard-Mobile",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Nathan Williams",
+      "project": "SecureVault",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Nathan Williams",
+      "project": "CryptoGuard",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Olivia Brown",
+      "project": "SlackBot-AI",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Olivia Brown",
+      "project": "ChannelSync",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Olivia Brown",
+      "project": "WorkspaceHub",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Christopher Davis",
+      "project": "VideoCodec-X",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Christopher Davis",
+      "project": "MeetingRoom-Pro",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Amanda Miller",
+      "project": "ShopEngine-v2",
+      "responsibility_level": "Medium"
+    },
+    {
+      "person": "Ryan Garcia",
+      "project": "PaymentGateway",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Ryan Garcia",
+      "project": "SquareAPI",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Ryan Garcia",
+      "project": "TransactionEngine",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Jessica Wilson",
+      "project": "SignatureAPI",
+      "responsibility_level": "High"
+    },
+    {
+      "person": "Jessica Wilson",
+      "project": "DocumentFlow",
+      "responsibility_level": "High"
+    }
+  ],
+  "CompanyHasDepartment": [
+    {
+      "company": "OpenAI",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "OpenAI",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "OpenAI",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "OpenAI",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "OpenAI",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Google",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Google",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Google",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Google",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Google",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Amazon",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Amazon",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Amazon",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Amazon",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Amazon",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Meta",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Meta",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Meta",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Meta",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Meta",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Tesla",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Tesla",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Tesla",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Tesla",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Tesla",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Spotify",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Spotify",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Spotify",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Spotify",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Spotify",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Uber",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Uber",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Uber",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Uber",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Uber",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "IBM",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "IBM",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "IBM",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "IBM",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "IBM",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Oracle",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Oracle",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Oracle",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Oracle",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Oracle",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Intel",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Intel",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Intel",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Intel",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Intel",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Cisco",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Cisco",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Cisco",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Cisco",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Cisco",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "HP",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "HP",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "HP",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "HP",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "HP",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "VMware",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "VMware",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "VMware",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "VMware",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "VMware",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "RedHat",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "RedHat",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "RedHat",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "RedHat",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "RedHat",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Airbnb",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Airbnb",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Airbnb",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Airbnb",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Airbnb",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Twitter",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Twitter",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Twitter",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Twitter",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Twitter",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Dropbox",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Dropbox",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Dropbox",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Dropbox",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Dropbox",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Slack",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Slack",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Slack",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Slack",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Slack",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Zoom",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Zoom",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Zoom",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Zoom",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Zoom",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Square",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Square",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Square",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Square",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "Square",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "DocuSign",
+      "department": "Engineering",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "DocuSign",
+      "department": "R&D",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "DocuSign",
+      "department": "Marketing",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "DocuSign",
+      "department": "Sales",
+      "establishment_date": "Unknown"
+    },
+    {
+      "company": "DocuSign",
+      "department": "HR",
+      "establishment_date": "Unknown"
+    }
+  ],
+  "ProjectUsesTechnology": [
+    {
+      "project": "AirFlow",
+      "technology": "AI",
+      "technology_role": "Core"
+    },
+    {
+      "project": "AirStream",
+      "technology": "AI",
+      "technology_role": "Core"
+    },
+    {
+      "project": "AirSync",
+      "technology": "AI",
+      "technology_role": "Core"
+    },
+    {
+      "project": "TwitterAPI-v3",
+      "technology": "API",
+      "technology_role": "Core"
+    },
+    {
+      "project": "SlackBot-AI",
+      "technology": "AI",
+      "technology_role": "Core"
+    },
+    {
+      "project": "SquareAPI",
+      "technology": "API",
+      "technology_role": "Core"
+    },
+    {
+      "project": "SignatureAPI",
+      "technology": "API",
+      "technology_role": "Core"
+    }
+  ],
+  "PositionInDepartment": [
+    {
+      "position": "UX Designer",
+      "department": "Design",
+      "position_count": 1
+    },
+    {
+      "position": "Database Administrator",
+      "department": "Support",
+      "position_count": 1
+    },
+    {
+      "position": "Systems Administrator",
+      "department": "Support",
+      "position_count": 1
+    },
+    {
+      "position": "Technical Support Lead",
+      "department": "Support",
+      "position_count": 1
+    },
+    {
+      "position": "Linux Administrator",
+      "department": "Design",
+      "position_count": 1
+    },
+    {
+      "position": "Linux Administrator",
+      "department": "Support",
+      "position_count": 1
+    },
+    {
+      "position": "Product Designer",
+      "department": "Design",
+      "position_count": 1
+    }
+  ],
+  "CompanyUsesTechnology": [
+    {
+      "company": "OpenAI",
+      "technology": "AI",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "OpenAI",
+      "technology": "Cloud",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "OpenAI",
+      "technology": "Database",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "OpenAI",
+      "technology": "API",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Google",
+      "technology": "AI",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Google",
+      "technology": "Cloud",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Google",
+      "technology": "Database",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Google",
+      "technology": "API",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Microsoft",
+      "technology": "AI",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Microsoft",
+      "technology": "Cloud",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Microsoft",
+      "technology": "Database",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Microsoft",
+      "technology": "API",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Apple",
+      "technology": "AI",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Apple",
+      "technology": "Cloud",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Apple",
+      "technology": "Database",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Apple",
+      "technology": "API",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Amazon",
+      "technology": "AI",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Amazon",
+      "technology": "Cloud",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Amazon",
+      "technology": "Database",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Amazon",
+      "technology": "API",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Meta",
+      "technology": "AI",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Meta",
+      "technology": "Cloud",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Meta",
+      "technology": "Database",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "Meta",
+      "technology": "API",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "IBM",
+      "technology": "AI",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "IBM",
+      "technology": "Cloud",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "IBM",
+      "technology": "Database",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    },
+    {
+      "company": "IBM",
+      "technology": "API",
+      "adoption_date": "Unknown",
+      "usage_level": "High"
+    }
+  ]
+}
