@@ -1,0 +1,214 @@
+{
+  "relations": [
+    {
+      "name": "WorksAt",
+      "description": "Person works at Company",
+      "source_entity": "Person",
+      "target_entity": "Company",
+      "attributes": ["position", "start_date"]
+    },
+    {
+      "name": "BelongsToDepartment",
+      "description": "Person belongs to Department",
+      "source_entity": "Person",
+      "target_entity": "Department",
+      "attributes": ["role", "join_date"]
+    },
+    {
+      "name": "ManagesProject",
+      "description": "Person manages Project",
+      "source_entity": "Person",
+      "target_entity": "Project",
+      "attributes": ["responsibility_level"]
+    },
+    {
+      "name": "LeadsTeam",
+      "description": "Person leads Team",
+      "source_entity": "Person",
+      "target_entity": "Team",
+      "attributes": ["leadership_role"]
+    },
+    {
+      "name": "HasPosition",
+      "description": "Person has Position",
+      "source_entity": "Person",
+      "target_entity": "Position",
+      "attributes": ["tenure", "promotion_date"]
+    },
+    {
+      "name": "LocatedIn",
+      "description": "Person located in Location",
+      "source_entity": "Person",
+      "target_entity": "Location",
+      "attributes": ["office_type"]
+    },
+    {
+      "name": "CompanyOwnsProject",
+      "description": "Company owns Project",
+      "source_entity": "Company",
+      "target_entity": "Project",
+      "attributes": ["investment_amount"]
+    },
+    {
+      "name": "CompanyHasDepartment",
+      "description": "Company has Department",
+      "source_entity": "Company",
+      "target_entity": "Department",
+      "attributes": ["establishment_date"]
+    },
+    {
+      "name": "CompanyLocatedIn",
+      "description": "Company located in Location",
+      "source_entity": "Company",
+      "target_entity": "Location",
+      "attributes": ["office_type", "size"]
+    },
+    {
+      "name": "CompanyHasClient",
+      "description": "Company has Client",
+      "source_entity": "Company",
+      "target_entity": "Client",
+      "attributes": ["contract_date", "relationship_type"]
+    },
+    {
+      "name": "CompanyDevelopsProduct",
+      "description": "Company develops Product",
+      "source_entity": "Company",
+      "target_entity": "Product",
+      "attributes": ["development_stage"]
+    },
+    {
+      "name": "CompanyUsesTechnology",
+      "description": "Company uses Technology",
+      "source_entity": "Company",
+      "target_entity": "Technology",
+      "attributes": ["adoption_date", "usage_level"]
+    },
+    {
+      "name": "ProjectUsesTechnology",
+      "description": "Project uses Technology",
+      "source_entity": "Project",
+      "target_entity": "Technology",
+      "attributes": ["technology_role"]
+    },
+    {
+      "name": "ProjectHasTeam",
+      "description": "Project has Team",
+      "source_entity": "Project",
+      "target_entity": "Team",
+      "attributes": ["team_role"]
+    },
+    {
+      "name": "ProjectForClient",
+      "description": "Project for Client",
+      "source_entity": "Project",
+      "target_entity": "Client",
+      "attributes": ["contract_value"]
+    },
+    {
+      "name": "ProjectDeliversProduct",
+      "description": "Project delivers Product",
+      "source_entity": "Project",
+      "target_entity": "Product",
+      "attributes": ["delivery_date"]
+    },
+    {
+      "name": "DepartmentHeadedBy",
+      "description": "Department headed by Person",
+      "source_entity": "Department",
+      "target_entity": "Person",
+      "attributes": ["appointment_date"]
+    },
+    {
+      "name": "DepartmentHasTeam",
+      "description": "Department has Team",
+      "source_entity": "Department",
+      "target_entity": "Team",
+      "attributes": ["team_purpose"]
+    },
+    {
+      "name": "DepartmentLocatedIn",
+      "description": "Department located in Location",
+      "source_entity": "Department",
+      "target_entity": "Location",
+      "attributes": ["floor", "building"]
+    },
+    {
+      "name": "PositionInDepartment",
+      "description": "Position in Department",
+      "source_entity": "Position",
+      "target_entity": "Department",
+      "attributes": ["position_count"]
+    },
+    {
+      "name": "TeamMember",
+      "description": "Team has member Person",
+      "source_entity": "Team",
+      "target_entity": "Person",
+      "attributes": ["role_in_team"]
+    },
+    {
+      "name": "TeamUsesTechnology",
+      "description": "Team uses Technology",
+      "source_entity": "Team",
+      "target_entity": "Technology",
+      "attributes": ["proficiency_level"]
+    },
+    {
+      "name": "TeamDevelopsProduct",
+      "description": "Team develops Product",
+      "source_entity": "Team",
+      "target_entity": "Product",
+      "attributes": ["development_phase"]
+    },
+    {
+      "name": "ProductUsesTechnology",
+      "description": "Product uses Technology",
+      "source_entity": "Product",
+      "target_entity": "Technology",
+      "attributes": ["technology_stack_position"]
+    },
+    {
+      "name": "ProductForClient",
+      "description": "Product for Client",
+      "source_entity": "Product",
+      "target_entity": "Client",
+      "attributes": ["license_type"]
+    },
+    {
+      "name": "ClientInLocation",
+      "description": "Client in Location",
+      "source_entity": "Client",
+      "target_entity": "Location",
+      "attributes": ["office_address"]
+    },
+    {
+      "name": "ClientHasContract",
+      "description": "Client has contract with Company",
+      "source_entity": "Client",
+      "target_entity": "Company",
+      "attributes": ["contract_value", "start_date", "end_date"]
+    },
+    {
+      "name": "TechnologyCategory",
+      "description": "Technology belongs to category",
+      "source_entity": "Technology",
+      "target_entity": "Technology",
+      "attributes": ["relationship_type"]
+    },
+    {
+      "name": "LocationContainsLocation",
+      "description": "Location contains another Location",
+      "source_entity": "Location",
+      "target_entity": "Location",
+      "attributes": ["containment_type"]
+    },
+    {
+      "name": "CompanyPartnersWith",
+      "description": "Company partners with Company",
+      "source_entity": "Company",
+      "target_entity": "Company",
+      "attributes": ["partnership_type", "start_date"]
+    }
+  ]
+}

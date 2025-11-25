@@ -1,0 +1,1035 @@
+{
+  "Person": [
+    {
+      "name": "John Doe",
+      "age": 32,
+      "position": "Researcher",
+      "department": "R&D"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 28,
+      "position": "Engineer",
+      "department": "Engineering"
+    },
+    {
+      "name": "Michael Brown",
+      "age": 45,
+      "position": "Senior Developer",
+      "department": "Engineering"
+    },
+    {
+      "name": "Sarah Wilson",
+      "age": 35,
+      "position": "Product Manager",
+      "department": "Management"
+    },
+    {
+      "name": "David Johnson",
+      "age": 29,
+      "position": "Data Scientist",
+      "department": "R&D"
+    },
+    {
+      "name": "Emily Davis",
+      "age": 31,
+      "position": "UX Designer",
+      "department": "Design"
+    },
+    {
+      "name": "Robert Miller",
+      "age": 38,
+      "position": "AI Specialist",
+      "department": "General"
+    },
+    {
+      "name": "Lisa Garcia",
+      "age": 26,
+      "position": "Software Engineer",
+      "department": "Engineering"
+    },
+    {
+      "name": "James Rodriguez",
+      "age": 42,
+      "position": "Backend Developer",
+      "department": "Engineering"
+    },
+    {
+      "name": "Maria Martinez",
+      "age": 34,
+      "position": "Systems Architect",
+      "department": "Engineering"
+    },
+    {
+      "name": "Tom Anderson",
+      "age": 39,
+      "position": "Cloud Architect",
+      "department": "Engineering"
+    },
+    {
+      "name": "Rachel Green",
+      "age": 27,
+      "position": "Database Administrator",
+      "department": "Support"
+    },
+    {
+      "name": "Kevin Lee",
+      "age": 33,
+      "position": "DevOps Engineer",
+      "department": "Engineering"
+    },
+    {
+      "name": "Anna Thompson",
+      "age": 30,
+      "position": "Creative Director",
+      "department": "Management"
+    },
+    {
+      "name": "Mark Davis",
+      "age": 44,
+      "position": "Hardware Engineer",
+      "department": "Engineering"
+    },
+    {
+      "name": "Susan Clark",
+      "age": 36,
+      "position": "Network Specialist",
+      "department": "General"
+    },
+    {
+      "name": "Paul Wilson",
+      "age": 41,
+      "position": "Systems Administrator",
+      "department": "Support"
+    },
+    {
+      "name": "Jennifer Moore",
+      "age": 29,
+      "position": "Technical Support Lead",
+      "department": "Engineering"
+    },
+    {
+      "name": "Steven Taylor",
+      "age": 37,
+      "position": "Virtualization Expert",
+      "department": "General"
+    },
+    {
+      "name": "Michelle White",
+      "age": 32,
+      "position": "Linux Administrator",
+      "department": "Design"
+    },
+    {
+      "name": "Daniel Kim",
+      "age": 35,
+      "position": "Full Stack Developer",
+      "department": "Engineering"
+    },
+    {
+      "name": "Catherine Jones",
+      "age": 28,
+      "position": "Frontend Developer",
+      "department": "Engineering"
+    },
+    {
+      "name": "Andrew Chen",
+      "age": 42,
+      "position": "Data Engineer",
+      "department": "Engineering"
+    },
+    {
+      "name": "Sophia Rodriguez",
+      "age": 31,
+      "position": "Mobile Developer",
+      "department": "Engineering"
+    },
+    {
+      "name": "Nathan Williams",
+      "age": 39,
+      "position": "Security Engineer",
+      "department": "Engineering"
+    },
+    {
+      "name": "Olivia Brown",
+      "age": 26,
+      "position": "Product Designer",
+      "department": "Design"
+    },
+    {
+      "name": "Christopher Davis",
+      "age": 34,
+      "position": "Video Technology Specialist",
+      "department": "General"
+    },
+    {
+      "name": "Amanda Miller",
+      "age": 30,
+      "position": "E-commerce Developer",
+      "department": "Engineering"
+    },
+    {
+      "name": "Ryan Garcia",
+      "age": 37,
+      "position": "Payment Systems Engineer",
+      "department": "Engineering"
+    },
+    {
+      "name": "Jessica Wilson",
+      "age": 33,
+      "position": "API Developer",
+      "department": "Engineering"
+    }
+  ],
+  "Company": [
+    {
+      "name": "OpenAI",
+      "industry": "Technology",
+      "sector": "Technology",
+      "location": "San Francisco"
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "sector": "Internet Services",
+      "location": "Mountain View"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "sector": "Software",
+      "location": "Redmond"
+    },
+    {
+      "name": "Apple",
+      "industry": "Technology",
+      "sector": "Consumer Electronics",
+      "location": "Cupertino"
+    },
+    {
+      "name": "Amazon",
+      "industry": "Technology",
+      "sector": "E-commerce",
+      "location": "Seattle"
+    },
+    {
+      "name": "Meta",
+      "industry": "Technology",
+      "sector": "Social Media",
+      "location": "Menlo Park"
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotive",
+      "sector": "Clean Energy",
+      "location": "Austin"
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entertainment",
+      "sector": "Streaming",
+      "location": "Los Gatos"
+    },
+    {
+      "name": "Uber",
+      "industry": "Transportation",
+      "sector": "Technology",
+      "location": "San Francisco"
+    },
+    {
+      "name": "IBM",
+      "industry": "Technology",
+      "sector": "Enterprise Solutions",
+      "location": "Unknown"
+    },
+    {
+      "name": "Oracle",
+      "industry": "Database",
+      "sector": "Enterprise Software",
+      "location": "Unknown"
+    },
+    {
+      "name": "Salesforce",
+      "industry": "CRM",
+      "sector": "Cloud Computing",
+      "location": "Unknown"
+    },
+    {
+      "name": "Adobe",
+      "industry": "Creative Software",
+      "sector": "Digital Marketing",
+      "location": "Unknown"
+    },
+    {
+      "name": "Intel",
+      "industry": "Semiconductors",
+      "sector": "Technology",
+      "location": "Unknown"
+    },
+    {
+      "name": "Cisco",
+      "industry": "Networking",
+      "sector": "Technology",
+      "location": "Unknown"
+    },
+    {
+      "name": "HP",
+      "industry": "Computing",
+      "sector": "Printing Technology",
+      "location": "Unknown"
+    },
+    {
+      "name": "RedHat",
+      "industry": "Open Source",
+      "sector": "Enterprise Linux",
+      "location": "Unknown"
+    },
+    {
+      "name": "Airbnb",
+      "industry": "Travel",
+      "sector": "Hospitality Technology",
+      "location": "Unknown"
+    },
+    {
+      "name": "Twitter",
+      "industry": "Social Media",
+      "sector": "Communication Technology",
+      "location": "Unknown"
+    },
+    {
+      "name": "Pinterest",
+      "industry": "Social Media",
+      "sector": "Visual Discovery",
+      "location": "Unknown"
+    },
+    {
+      "name": "Dropbox",
+      "industry": "Cloud Storage",
+      "sector": "File Sharing",
+      "location": "Unknown"
+    },
+    {
+      "name": "Zoom",
+      "industry": "Video Conferencing",
+      "sector": "Communications",
+      "location": "Unknown"
+    },
+    {
+      "name": "DocuSign",
+      "industry": "Digital Signature",
+      "sector": "Document Management",
+      "location": "Unknown"
+    }
+  ],
+  "Project": [
+    {
+      "name": "Alpha",
+      "start_date": "2023-01-15",
+      "end_date": "2023-06-30",
+      "status": "Completed",
+      "budget": 9838564
+    },
+    {
+      "name": "Beta",
+      "start_date": "2023-02-01",
+      "end_date": "2023-08-15",
+      "status": "Completed",
+      "budget": 2344776
+    },
+    {
+      "name": "Gamma",
+      "start_date": "2023-03-10",
+      "end_date": "2023-09-20",
+      "status": "Completed",
+      "budget": 1897728
+    },
+    {
+      "name": "Delta",
+      "start_date": "2023-01-20",
+      "end_date": "2023-07-10",
+      "status": "Completed",
+      "budget": 4285637
+    },
+    {
+      "name": "Epsilon",
+      "start_date": "2023-04-05",
+      "end_date": "2023-10-12",
+      "status": "Completed",
+      "budget": 5314921
+    },
+    {
+      "name": "Zeta",
+      "start_date": "2023-02-15",
+      "end_date": "2023-12-01",
+      "status": "Completed",
+      "budget": 8019778
+    },
+    {
+      "name": "Eta",
+      "start_date": "2023-05-01",
+      "end_date": "2024-01-30",
+      "status": "Completed",
+      "budget": 5038383
+    },
+    {
+      "name": "Theta",
+      "start_date": "2023-03-20",
+      "end_date": "2023-11-15",
+      "status": "Completed",
+      "budget": 1194778
+    },
+    {
+      "name": "Iota",
+      "start_date": "2023-06-01",
+      "end_date": "2024-02-28",
+      "status": "Completed",
+      "budget": 775190
+    },
+    {
+      "name": "Kappa",
+      "start_date": "2023-01-10",
+      "end_date": "2023-05-25",
+      "status": "Completed",
+      "budget": 5363539
+    },
+    {
+      "name": "Lambda",
+      "start_date": "2023-07-01",
+      "end_date": "2024-03-15",
+      "status": "Completed",
+      "budget": 9455719
+    },
+    {
+      "name": "Mu",
+      "start_date": "2023-04-15",
+      "end_date": "2023-12-20",
+      "status": "Completed",
+      "budget": 1586233
+    },
+    {
+      "name": "Nu",
+      "start_date": "2023-08-01",
+      "end_date": "2024-04-10",
+      "status": "Completed",
+      "budget": 5459151
+    },
+    {
+      "name": "Xi",
+      "start_date": "2023-05-10",
+      "end_date": "2024-01-05",
+      "status": "Completed",
+      "budget": 1515509
+    },
+    {
+      "name": "Omicron",
+      "start_date": "2023-09-01",
+      "end_date": "2024-05-20",
+      "status": "Completed",
+      "budget": 6980549
+    },
+    {
+      "name": "Pi",
+      "start_date": "2023-03-25",
+      "end_date": "2023-10-30",
+      "status": "Completed",
+      "budget": 8853605
+    },
+    {
+      "name": "Rho",
+      "start_date": "2023-06-15",
+      "end_date": "2024-01-12",
+      "status": "Completed",
+      "budget": 7467017
+    },
+    {
+      "name": "Sigma",
+      "start_date": "2023-02-28",
+      "end_date": "2023-11-30",
+      "status": "Completed",
+      "budget": 7143004
+    },
+    {
+      "name": "Tau",
+      "start_date": "2023-07-20",
+      "end_date": "2024-02-15",
+      "status": "Completed",
+      "budget": 445546
+    },
+    {
+      "name": "Upsilon",
+      "start_date": "2023-04-30",
+      "end_date": "2024-01-25",
+      "status": "Completed",
+      "budget": 9524689
+    },
+    {
+      "name": "Phi",
+      "start_date": "2023-08-15",
+      "end_date": "2024-03-30",
+      "status": "Completed",
+      "budget": 4532769
+    },
+    {
+      "name": "Chi",
+      "start_date": "2023-05-25",
+      "end_date": "2024-02-10",
+      "status": "Completed",
+      "budget": 9547937
+    },
+    {
+      "name": "Psi",
+      "start_date": "2023-09-10",
+      "end_date": "2024-04-25",
+      "status": "Completed",
+      "budget": 8012882
+    },
+    {
+      "name": "Omega",
+      "start_date": "2023-06-30",
+      "end_date": "2024-03-05",
+      "status": "Completed",
+      "budget": 9559430
+    },
+    {
+      "name": "Alpha-2",
+      "start_date": "2023-10-01",
+      "end_date": "2024-06-15",
+      "status": "Completed",
+      "budget": 6971065
+    },
+    {
+      "name": "Beta-2",
+      "start_date": "2023-11-15",
+      "end_date": "2024-07-30",
+      "status": "Completed",
+      "budget": 9620890
+    },
+    {
+      "name": "Gamma-2",
+      "start_date": "2023-12-01",
+      "end_date": "2024-08-20",
+      "status": "Completed",
+      "budget": 643772
+    },
+    {
+      "name": "Nova",
+      "start_date": "2023-08-01",
+      "end_date": "2024-01-15",
+      "status": "Completed",
+      "budget": 8598087
+    },
+    {
+      "name": "Stellar",
+      "start_date": "2023-09-15",
+      "end_date": "2024-03-30",
+      "status": "Completed",
+      "budget": 5171630
+    },
+    {
+      "name": "Cosmic",
+      "start_date": "2023-07-10",
+      "end_date": "2024-02-20",
+      "status": "Completed",
+      "budget": 1199411
+    },
+    {
+      "name": "Galactic",
+      "start_date": "2023-10-05",
+      "end_date": "2024-05-10",
+      "status": "Completed",
+      "budget": 7066786
+    },
+    {
+      "name": "Universal",
+      "start_date": "2023-11-20",
+      "end_date": "2024-06-25",
+      "status": "Completed",
+      "budget": 6058101
+    },
+    {
+      "name": "Quantum",
+      "start_date": "2023-06-05",
+      "end_date": "2023-12-15",
+      "status": "Completed",
+      "budget": 5986978
+    },
+    {
+      "name": "Photon",
+      "start_date": "2023-04-20",
+      "end_date": "2023-11-05",
+      "status": "Completed",
+      "budget": 4391941
+    },
+    {
+      "name": "Electron",
+      "start_date": "2023-07-25",
+      "end_date": "2024-01-20",
+      "status": "Completed",
+      "budget": 3416565
+    },
+    {
+      "name": "Neutron",
+      "start_date": "2023-08-30",
+      "end_date": "2024-04-05",
+      "status": "Completed",
+      "budget": 9620330
+    },
+    {
+      "name": "Proton",
+      "start_date": "2023-09-20",
+      "end_date": "2024-02-28",
+      "status": "Completed",
+      "budget": 2938385
+    },
+    {
+      "name": "Circuit",
+      "start_date": "2023-05-15",
+      "end_date": "2023-12-30",
+      "status": "Completed",
+      "budget": 120635
+    },
+    {
+      "name": "Binary",
+      "start_date": "2023-10-10",
+      "end_date": "2024-05-25",
+      "status": "Completed",
+      "budget": 2362876
+    },
+    {
+      "name": "Network-A",
+      "start_date": "2023-03-05",
+      "end_date": "2023-09-15",
+      "status": "Completed",
+      "budget": 9535080
+    },
+    {
+      "name": "Network-B",
+      "start_date": "2023-06-20",
+      "end_date": "2024-01-10",
+      "status": "Completed",
+      "budget": 568955
+    },
+    {
+      "name": "Network-C",
+      "start_date": "2023-08-10",
+      "end_date": "2024-03-20",
+      "status": "Completed",
+      "budget": 4153251
+    },
+    {
+      "name": "Server-Prime",
+      "start_date": "2023-07-05",
+      "end_date": "2024-02-05",
+      "status": "Completed",
+      "budget": 3211733
+    },
+    {
+      "name": "Support-Alpha",
+      "start_date": "2023-09-01",
+      "end_date": "2024-04-15",
+      "status": "Completed",
+      "budget": 5964973
+    },
+    {
+      "name": "Support-Beta",
+      "start_date": "2023-11-10",
+      "end_date": "2024-06-30",
+      "status": "Completed",
+      "budget": 5923763
+    },
+    {
+      "name": "Virtual-X",
+      "start_date": "2023-05-30",
+      "end_date": "2024-01-30",
+      "status": "Completed",
+      "budget": 8498928
+    },
+    {
+      "name": "Virtual-Y",
+      "start_date": "2023-08-20",
+      "end_date": "2024-04-20",
+      "status": "Completed",
+      "budget": 2551169
+    },
+    {
+      "name": "Virtual-Z",
+      "start_date": "2023-10-25",
+      "end_date": "2024-07-10",
+      "status": "Completed",
+      "budget": 6167751
+    },
+    {
+      "name": "Linux-Core",
+      "start_date": "2023-12-05",
+      "end_date": "2024-08-15",
+      "status": "Completed",
+      "budget": 6181391
+    },
+    {
+      "name": "AirFlow",
+      "start_date": "2023-02-10",
+      "end_date": "2023-08-25",
+      "status": "Completed",
+      "budget": 5162171
+    },
+    {
+      "name": "AirStream",
+      "start_date": "2023-05-05",
+      "end_date": "2023-11-20",
+      "status": "Completed",
+      "budget": 7427603
+    },
+    {
+      "name": "AirSync",
+      "start_date": "2023-07-15",
+      "end_date": "2024-01-30",
+      "status": "Completed",
+      "budget": 8270503
+    },
+    {
+      "name": "TweetDeck-2",
+      "start_date": "2023-04-01",
+      "end_date": "2023-10-15",
+      "status": "Completed",
+      "budget": 9317339
+    },
+    {
+      "name": "TwitterAPI-v3",
+      "start_date": "2023-08-05",
+      "end_date": "2024-02-20",
+      "status": "Completed",
+      "budget": 377128
+    },
+    {
+      "name": "LinkedData",
+      "start_date": "2023-03-15",
+      "end_date": "2023-09-30",
+      "status": "Completed",
+      "budget": 8031776
+    },
+    {
+      "name": "ProfileEngine",
+      "start_date": "2023-06-10",
+      "end_date": "2023-12-25",
+      "status": "Completed",
+      "budget": 1992795
+    },
+    {
+      "name": "NetworkGraph",
+      "start_date": "2023-09-05",
+      "end_date": "2024-03-20",
+      "status": "Completed",
+      "budget": 9418097
+    },
+    {
+      "name": "JobMatcher",
+      "start_date": "2023-11-01",
+      "end_date": "2024-05-15",
+      "status": "Completed",
+      "budget": 5084259
+    },
+    {
+      "name": "PinBoard-Mobile",
+      "start_date": "2023-01-25",
+      "end_date": "2023-07-40",
+      "status": "Unknown",
+      "budget": 8526923
+    },
+    {
+      "name": "SecureVault",
+      "start_date": "2023-04-10",
+      "end_date": "2023-10-25",
+      "status": "Completed",
+      "budget": 6663566
+    },
+    {
+      "name": "CryptoGuard",
+      "start_date": "2023-07-01",
+      "end_date": "2024-01-15",
+      "status": "Completed",
+      "budget": 7746724
+    },
+    {
+      "name": "SlackBot-AI",
+      "start_date": "2023-05-20",
+      "end_date": "2023-11-05",
+      "status": "Completed",
+      "budget": 947369
+    },
+    {
+      "name": "ChannelSync",
+      "start_date": "2023-08-15",
+      "end_date": "2024-02-28",
+      "status": "Completed",
+      "budget": 3633378
+    },
+    {
+      "name": "WorkspaceHub",
+      "start_date": "2023-10-30",
+      "end_date": "2024-04-15",
+      "status": "Completed",
+      "budget": 9520751
+    },
+    {
+      "name": "VideoCodec-X",
+      "start_date": "2023-03-30",
+      "end_date": "2023-09-15",
+      "status": "Completed",
+      "budget": 9998068
+    },
+    {
+      "name": "MeetingRoom-Pro",
+      "start_date": "2023-06-25",
+      "end_date": "2024-01-10",
+      "status": "Completed",
+      "budget": 8582252
+    },
+    {
+      "name": "ShopEngine-v2",
+      "start_date": "2023-09-20",
+      "end_date": "2024-05-05",
+      "status": "Completed",
+      "budget": 4772733
+    },
+    {
+      "name": "PaymentGateway",
+      "start_date": "2023-02-20",
+      "end_date": "2023-08-35",
+      "status": "Unknown",
+      "budget": 5466345
+    },
+    {
+      "name": "SquareAPI",
+      "start_date": "2023-07-30",
+      "end_date": "2024-02-15",
+      "status": "Completed",
+      "budget": 892923
+    },
+    {
+      "name": "TransactionEngine",
+      "start_date": "2023-11-25",
+      "end_date": "2024-07-10",
+      "status": "Completed",
+      "budget": 9415594
+    },
+    {
+      "name": "SignatureAPI",
+      "start_date": "2023-04-25",
+      "end_date": "2023-11-10",
+      "status": "Completed",
+      "budget": 7081735
+    },
+    {
+      "name": "DocumentFlow",
+      "start_date": "2023-08-25",
+      "end_date": "2024-04-10",
+      "status": "Completed",
+      "budget": 4801497
+    }
+  ],
+  "Department": [
+    {
+      "name": "Product",
+      "head": "Unknown",
+      "employee_count": 0
+    },
+    {
+      "name": "Design",
+      "head": "Unknown",
+      "employee_count": 0
+    },
+    {
+      "name": "Sales",
+      "head": "Unknown",
+      "employee_count": 0
+    },
+    {
+      "name": "Support",
+      "head": "Unknown",
+      "employee_count": 0
+    },
+    {
+      "name": "Marketing",
+      "head": "Unknown",
+      "employee_count": 0
+    }
+  ],
+  "Position": [
+    {
+      "title": "Researcher",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Engineer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Senior Developer",
+      "level": "Senior",
+      "salary_range": "$120,000-$200,000"
+    },
+    {
+      "title": "Product Manager",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Data Scientist",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "UX Designer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "AI Specialist",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Software Engineer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Backend Developer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Systems Architect",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Cloud Architect",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Database Administrator",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "DevOps Engineer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Creative Director",
+      "level": "Senior",
+      "salary_range": "$120,000-$200,000"
+    },
+    {
+      "title": "Hardware Engineer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Network Specialist",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Systems Administrator",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Technical Support Lead",
+      "level": "Senior",
+      "salary_range": "$120,000-$200,000"
+    },
+    {
+      "title": "Virtualization Expert",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Linux Administrator",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Full Stack Developer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Frontend Developer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Data Engineer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Mobile Developer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Security Engineer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Product Designer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Video Technology Specialist",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "E-commerce Developer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "Payment Systems Engineer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    },
+    {
+      "title": "API Developer",
+      "level": "Mid-level",
+      "salary_range": "$80,000-$120,000"
+    }
+  ],
+  "Technology": [
+    {
+      "name": "AI",
+      "category": "Artificial Intelligence",
+      "version": "1.0"
+    },
+    {
+      "name": "Cloud",
+      "category": "Cloud Computing",
+      "version": "1.0"
+    },
+    {
+      "name": "Database",
+      "category": "Data Management",
+      "version": "1.0"
+    },
+    {
+      "name": "API",
+      "category": "Software Development",
+      "version": "1.0"
+    }
+  ],
+  "Location": [],
+  "Team": [],
+  "Product": [],
+  "Client": []
+}
