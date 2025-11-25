@@ -1,0 +1,2 @@
+# minimal requirements for KGEB
+# (regex is in stdlib; left empty for now)
