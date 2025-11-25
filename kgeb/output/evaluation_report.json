@@ -1,0 +1,74 @@
+{
+  "method": "KGEB Pipeline",
+  "timestamp": "2025-11-25T02:04:09.763403Z",
+  "entity_evaluation": {
+    "schema_compliance": {
+      "percentage": 100.0,
+      "details": {
+        "Person": {
+          "total_instances": 29,
+          "compliant_instances": 29,
+          "compliance_rate": 1.0
+        },
+        "Company": {
+          "total_instances": 1,
+          "compliant_instances": 1,
+          "compliance_rate": 1.0
+        },
+        "Project": {
+          "total_instances": 70,
+          "compliant_instances": 70,
+          "compliance_rate": 1.0
+        },
+        "Department": {
+          "total_instances": 5,
+          "compliant_instances": 5,
+          "compliance_rate": 1.0
+        },
+        "Position": {
+          "total_instances": 29,
+          "compliant_instances": 29,
+          "compliance_rate": 1.0
+        },
+        "Technology": {
+          "total_instances": 4,
+          "compliant_instances": 4,
+          "compliance_rate": 1.0
+        },
+        "Product": {
+          "total_instances": 2,
+          "compliant_instances": 2,
+          "compliance_rate": 1.0
+        },
+        "Client": {
+          "total_instances": 260,
+          "compliant_instances": 260,
+          "compliance_rate": 1.0
+        }
+      }
+    }
+  },
+  "relation_evaluation": {
+    "logical_consistency": {
+      "score": 0.0,
+      "issues": [
+        "WorksAt: Company 'Google' not found in Company entities",
+        "WorksAt: Company 'Microsoft' not found in Company entities",
+        "WorksAt: Company 'Apple' not found in Company entities",
+        "WorksAt: Company 'Amazon' not found in Company entities",
+        "WorksAt: Company 'Meta' not found in Company entities",
+        "WorksAt: Company 'Tesla' not found in Company entities",
+        "WorksAt: Company 'Netflix' not found in Company entities",
+        "WorksAt: Company 'Spotify' not found in Company entities",
+        "WorksAt: Company 'Uber' not found in Company entities",
+        "WorksAt: Company 'IBM' not found in Company entities"
+      ]
+    }
+  },
+  "overall_metrics": {
+    "entity_f1": 0.0,
+    "relation_f1": 0.0,
+    "schema_compliance": 100.0,
+    "logical_consistency": 0.0
+  }
+}

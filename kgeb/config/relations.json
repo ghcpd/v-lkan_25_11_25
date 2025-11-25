@@ -1,0 +1,244 @@
+{
+  "relation_types": [
+    {
+      "id": 1,
+      "name": "BelongsTo",
+      "description": "Person belongs to department",
+      "source_entity": "Person",
+      "target_entity": "Department",
+      "attributes": ["start_date", "role"]
+    },
+    {
+      "id": 2,
+      "name": "WorksAt",
+      "description": "Person works at company",
+      "source_entity": "Person",
+      "target_entity": "Company",
+      "attributes": ["start_date", "employment_type"]
+    },
+    {
+      "id": 3,
+      "name": "HasPosition",
+      "description": "Person has a position",
+      "source_entity": "Person",
+      "target_entity": "Position",
+      "attributes": ["start_date", "status"]
+    },
+    {
+      "id": 4,
+      "name": "ManagesProject",
+      "description": "Person manages a project",
+      "source_entity": "Person",
+      "target_entity": "Project",
+      "attributes": ["role", "responsibility"]
+    },
+    {
+      "id": 5,
+      "name": "LeadsTeam",
+      "description": "Person leads a team",
+      "source_entity": "Person",
+      "target_entity": "Team",
+      "attributes": ["start_date", "authority_level"]
+    },
+    {
+      "id": 6,
+      "name": "OwnsProject",
+      "description": "Company owns a project",
+      "source_entity": "Company",
+      "target_entity": "Project",
+      "attributes": ["ownership_percentage", "status"]
+    },
+    {
+      "id": 7,
+      "name": "OperatesIn",
+      "description": "Company operates in location",
+      "source_entity": "Company",
+      "target_entity": "Location",
+      "attributes": ["office_type", "employee_count"]
+    },
+    {
+      "id": 8,
+      "name": "ProducesProduct",
+      "description": "Company produces a product",
+      "source_entity": "Company",
+      "target_entity": "Product",
+      "attributes": ["launch_date", "status"]
+    },
+    {
+      "id": 9,
+      "name": "EmploysDepartment",
+      "description": "Company employs a department",
+      "source_entity": "Company",
+      "target_entity": "Department",
+      "attributes": ["establishment_date"]
+    },
+    {
+      "id": 10,
+      "name": "UsesTechnology",
+      "description": "Team or Project uses technology",
+      "source_entity": ["Team", "Project"],
+      "target_entity": "Technology",
+      "attributes": ["adoption_date", "usage_level"]
+    },
+    {
+      "id": 11,
+      "name": "HasMember",
+      "description": "Team has a member",
+      "source_entity": "Team",
+      "target_entity": "Person",
+      "attributes": ["join_date", "role"]
+    },
+    {
+      "id": 12,
+      "name": "IsContainedIn",
+      "description": "Project is contained in Team",
+      "source_entity": "Project",
+      "target_entity": "Team",
+      "attributes": []
+    },
+    {
+      "id": 13,
+      "name": "HasClient",
+      "description": "Company has a client",
+      "source_entity": "Company",
+      "target_entity": "Client",
+      "attributes": ["contract_start_date", "contract_end_date"]
+    },
+    {
+      "id": 14,
+      "name": "SignsContract",
+      "description": "Client signs contract with product",
+      "source_entity": "Client",
+      "target_entity": "Product",
+      "attributes": ["contract_value", "contract_date"]
+    },
+    {
+      "id": 15,
+      "name": "Collaborates",
+      "description": "Two companies collaborate",
+      "source_entity": "Company",
+      "target_entity": "Company",
+      "attributes": ["start_date", "project_name"]
+    },
+    {
+      "id": 16,
+      "name": "RelatedTo",
+      "description": "Project is related to another project",
+      "source_entity": "Project",
+      "target_entity": "Project",
+      "attributes": ["relationship_type"]
+    },
+    {
+      "id": 17,
+      "name": "Supervises",
+      "description": "Person supervises another person",
+      "source_entity": "Person",
+      "target_entity": "Person",
+      "attributes": ["supervision_type"]
+    },
+    {
+      "id": 18,
+      "name": "RequiresPosition",
+      "description": "Department requires a position",
+      "source_entity": "Department",
+      "target_entity": "Position",
+      "attributes": ["required_count", "priority"]
+    },
+    {
+      "id": 19,
+      "name": "Specializes",
+      "description": "Company specializes in technology",
+      "source_entity": "Company",
+      "target_entity": "Technology",
+      "attributes": ["specialization_level", "years_experience"]
+    },
+    {
+      "id": 20,
+      "name": "HasDeveloper",
+      "description": "Project has a developer",
+      "source_entity": "Project",
+      "target_entity": "Person",
+      "attributes": ["role", "contribution_percentage"]
+    },
+    {
+      "id": 21,
+      "name": "FocusesOn",
+      "description": "Team focuses on technology",
+      "source_entity": "Team",
+      "target_entity": "Technology",
+      "attributes": ["focus_level", "expertise"]
+    },
+    {
+      "id": 22,
+      "name": "ProvidesService",
+      "description": "Company provides service",
+      "source_entity": "Company",
+      "target_entity": "Product",
+      "attributes": ["service_type", "coverage"]
+    },
+    {
+      "id": 23,
+      "name": "HasBudget",
+      "description": "Project has budget",
+      "source_entity": "Project",
+      "target_entity": "Team",
+      "attributes": ["allocated_budget", "currency"]
+    },
+    {
+      "id": 24,
+      "name": "AchievesGoal",
+      "description": "Project achieves goal",
+      "source_entity": "Project",
+      "target_entity": "Company",
+      "attributes": ["goal_type", "target_metric"]
+    },
+    {
+      "id": 25,
+      "name": "Implements",
+      "description": "Team implements technology",
+      "source_entity": "Team",
+      "target_entity": "Technology",
+      "attributes": ["implementation_date", "status"]
+    },
+    {
+      "id": 26,
+      "name": "CompetsWith",
+      "description": "Company competes with another company",
+      "source_entity": "Company",
+      "target_entity": "Company",
+      "attributes": ["competition_area", "market_share"]
+    },
+    {
+      "id": 27,
+      "name": "LocatedIn",
+      "description": "Entity is located in location",
+      "source_entity": ["Company", "Team", "Department"],
+      "target_entity": "Location",
+      "attributes": ["office_type", "size"]
+    },
+    {
+      "id": 28,
+      "name": "IsVersionOf",
+      "description": "Product version relationship",
+      "source_entity": "Product",
+      "target_entity": "Product",
+      "attributes": ["version_number", "release_date"]
+    },
+    {
+      "id": 29,
+      "name": "SponsoredBy",
+      "description": "Project is sponsored by company",
+      "source_entity": "Project",
+      "target_entity": "Company",
+      "attributes": ["sponsorship_type", "amount"]
+    },
+    {
+      "id": 30,
+      "name": "Contributes",
+      "description": "Person contributes to project",
+      "source_entity": "Person",
+      "target_entity": "Project",
+      "attributes": ["contribution_type", "hours_contributed"]
+    }
+  ]
+}
