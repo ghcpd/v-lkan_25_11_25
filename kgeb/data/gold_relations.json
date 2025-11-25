@@ -1,0 +1,18 @@
+{
+  "EmployedBy": [
+    {"person": "John Doe", "company": "OpenAI"},
+    {"person": "Jane Smith", "company": "Google"}
+  ],
+  "Manages": [
+    {"person": "John Doe", "project": "Alpha"},
+    {"person": "Jane Smith", "project": "Delta"}
+  ],
+  "CompanyIndustry": [
+    {"company": "OpenAI", "industry": "Technology"},
+    {"company": "Google", "industry": "Technology"}
+  ],
+  "ProjectHasDates": [
+    {"project": "Alpha", "start_date": "2023-01-15", "end_date": "2023-06-30"},
+    {"project": "Beta", "start_date": "2023-02-01", "end_date": "2023-08-15"}
+  ]
+}

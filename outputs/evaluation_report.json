@@ -1,0 +1,188 @@
+{
+  "method": "TestMethod",
+  "entity_micro_precision": 0.0496,
+  "entity_micro_recall": 0.7778,
+  "entity_micro_f1": 0.0933,
+  "relation_micro_precision": 0.0366,
+  "relation_micro_recall": 0.75,
+  "relation_micro_f1": 0.0698,
+  "schema_compliance": "79.28%",
+  "schema_details": {
+    "entity_compliance_pct": 58.57,
+    "relation_compliance_pct": 100.0
+  },
+  "logical_consistency": {
+    "errors": 28,
+    "missing_references": [
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Microsoft",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Apple",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Amazon",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Meta",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Netflix",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Spotify",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "IBM",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Salesforce",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Adobe",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Intel",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Cisco",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Dell",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "VMware",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Airbnb",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Twitter",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "LinkedIn",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Pinterest",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Dropbox",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Slack",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Zoom",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "Square",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "EmployedBy",
+        "field": "company",
+        "value": "DocuSign",
+        "expected_type": "Company"
+      },
+      {
+        "relation": "Manages",
+        "field": "person",
+        "value": "Jane Smith",
+        "expected_type": "Person"
+      },
+      {
+        "relation": "Manages",
+        "field": "person",
+        "value": "Jane Smith",
+        "expected_type": "Person"
+      },
+      {
+        "relation": "Manages",
+        "field": "person",
+        "value": "Robert Miller",
+        "expected_type": "Person"
+      },
+      {
+        "relation": "Manages",
+        "field": "person",
+        "value": "Robert Miller",
+        "expected_type": "Person"
+      },
+      {
+        "relation": "Manages",
+        "field": "person",
+        "value": "Robert Miller",
+        "expected_type": "Person"
+      },
+      {
+        "relation": "Manages",
+        "field": "person",
+        "value": "Amanda Miller",
+        "expected_type": "Person"
+      }
+    ]
+  },
+  "timestamp": "2025-11-25T00:00:00Z"
+}

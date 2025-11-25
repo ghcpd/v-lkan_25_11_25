@@ -1,0 +1,12 @@
+{
+  "Person": ["name", "age", "position", "department"],
+  "Company": ["name", "industry", "sector", "location"],
+  "Project": ["name", "start_date", "end_date", "status", "budget"],
+  "Department": ["name", "head", "employee_count"],
+  "Position": ["title", "level", "salary_range"],
+  "Technology": ["name", "category", "version"],
+  "Location": ["city", "country", "office_type"],
+  "Team": ["name", "size", "focus_area"],
+  "Product": ["name", "version", "release_date"],
+  "Client": ["name", "contract_value", "industry"]
+}
