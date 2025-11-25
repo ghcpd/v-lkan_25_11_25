@@ -1,0 +1,924 @@
+{
+  "WorksAt": [
+    {
+      "person": "John Doe",
+      "company": "OpenAI"
+    },
+    {
+      "person": "Jane Smith",
+      "company": "Google"
+    },
+    {
+      "person": "Michael Brown",
+      "company": "Microsoft"
+    },
+    {
+      "person": "Sarah Wilson",
+      "company": "Apple"
+    },
+    {
+      "person": "David Johnson",
+      "company": "Amazon"
+    },
+    {
+      "person": "Emily Davis",
+      "company": "Meta"
+    },
+    {
+      "person": "Robert Miller",
+      "company": "Tesla"
+    },
+    {
+      "person": "Lisa Garcia",
+      "company": "Netflix"
+    },
+    {
+      "person": "James Rodriguez",
+      "company": "Spotify"
+    },
+    {
+      "person": "Maria Martinez",
+      "company": "Uber"
+    },
+    {
+      "person": "Tom Anderson",
+      "company": "IBM"
+    },
+    {
+      "person": "Rachel Green",
+      "company": "Oracle"
+    },
+    {
+      "person": "Kevin Lee",
+      "company": "Salesforce"
+    },
+    {
+      "person": "Anna Thompson",
+      "company": "Adobe"
+    },
+    {
+      "person": "Mark Davis",
+      "company": "Intel"
+    },
+    {
+      "person": "Susan Clark",
+      "company": "Cisco"
+    },
+    {
+      "person": "Paul Wilson",
+      "company": "HP"
+    },
+    {
+      "person": "Jennifer Moore",
+      "company": "Dell"
+    },
+    {
+      "person": "Steven Taylor",
+      "company": "VMware"
+    },
+    {
+      "person": "Michelle White",
+      "company": "RedHat"
+    },
+    {
+      "person": "Daniel Kim",
+      "company": "Airbnb"
+    },
+    {
+      "person": "Catherine Jones",
+      "company": "Twitter"
+    },
+    {
+      "person": "Andrew Chen",
+      "company": "LinkedIn"
+    },
+    {
+      "person": "Sophia Rodriguez",
+      "company": "Pinterest"
+    },
+    {
+      "person": "Nathan Williams",
+      "company": "Dropbox"
+    },
+    {
+      "person": "Olivia Brown",
+      "company": "Slack"
+    },
+    {
+      "person": "Christopher Davis",
+      "company": "Zoom"
+    },
+    {
+      "person": "Amanda Miller",
+      "company": "Shopify"
+    },
+    {
+      "person": "Ryan Garcia",
+      "company": "Square"
+    },
+    {
+      "person": "Jessica Wilson",
+      "company": "DocuSign"
+    }
+  ],
+  "ManagesProject": [
+    {
+      "person": "John Doe",
+      "project": "Alpha"
+    },
+    {
+      "person": "John Doe",
+      "project": "Beta"
+    },
+    {
+      "person": "John Doe",
+      "project": "Gamma"
+    },
+    {
+      "person": "Jane Smith",
+      "project": "Delta"
+    },
+    {
+      "person": "Jane Smith",
+      "project": "Epsilon"
+    },
+    {
+      "person": "Michael Brown",
+      "project": "Zeta"
+    },
+    {
+      "person": "Michael Brown",
+      "project": "Eta"
+    },
+    {
+      "person": "Michael Brown",
+      "project": "Theta"
+    },
+    {
+      "person": "Michael Brown",
+      "project": "Iota"
+    },
+    {
+      "person": "Sarah Wilson",
+      "project": "Kappa"
+    },
+    {
+      "person": "David Johnson",
+      "project": "Lambda"
+    },
+    {
+      "person": "David Johnson",
+      "project": "Mu"
+    },
+    {
+      "person": "David Johnson",
+      "project": "Nu"
+    },
+    {
+      "person": "David Johnson",
+      "project": "Xi"
+    },
+    {
+      "person": "David Johnson",
+      "project": "Omicron"
+    },
+    {
+      "person": "Emily Davis",
+      "project": "Pi"
+    },
+    {
+      "person": "Emily Davis",
+      "project": "Rho"
+    },
+    {
+      "person": "Robert Miller",
+      "project": "Sigma"
+    },
+    {
+      "person": "Robert Miller",
+      "project": "Tau"
+    },
+    {
+      "person": "Robert Miller",
+      "project": "Upsilon"
+    },
+    {
+      "person": "Lisa Garcia",
+      "project": "Phi"
+    },
+    {
+      "person": "James Rodriguez",
+      "project": "Chi"
+    },
+    {
+      "person": "James Rodriguez",
+      "project": "Psi"
+    },
+    {
+      "person": "James Rodriguez",
+      "project": "Omega"
+    },
+    {
+      "person": "James Rodriguez",
+      "project": "Alpha-2"
+    },
+    {
+      "person": "Maria Martinez",
+      "project": "Beta-2"
+    },
+    {
+      "person": "Maria Martinez",
+      "project": "Gamma-2"
+    },
+    {
+      "person": "Tom Anderson",
+      "project": "Nova"
+    },
+    {
+      "person": "Tom Anderson",
+      "project": "Stellar"
+    },
+    {
+      "person": "Rachel Green",
+      "project": "Cosmic"
+    },
+    {
+      "person": "Rachel Green",
+      "project": "Galactic"
+    },
+    {
+      "person": "Rachel Green",
+      "project": "Universal"
+    },
+    {
+      "person": "Kevin Lee",
+      "project": "Quantum"
+    },
+    {
+      "person": "Anna Thompson",
+      "project": "Photon"
+    },
+    {
+      "person": "Anna Thompson",
+      "project": "Electron"
+    },
+    {
+      "person": "Anna Thompson",
+      "project": "Neutron"
+    },
+    {
+      "person": "Anna Thompson",
+      "project": "Proton"
+    },
+    {
+      "person": "Mark Davis",
+      "project": "Circuit"
+    },
+    {
+      "person": "Mark Davis",
+      "project": "Binary"
+    },
+    {
+      "person": "Susan Clark",
+      "project": "Network-A"
+    },
+    {
+      "person": "Susan Clark",
+      "project": "Network-B"
+    },
+    {
+      "person": "Susan Clark",
+      "project": "Network-C"
+    },
+    {
+      "person": "Paul Wilson",
+      "project": "Server-Prime"
+    },
+    {
+      "person": "Jennifer Moore",
+      "project": "Support-Alpha"
+    },
+    {
+      "person": "Jennifer Moore",
+      "project": "Support-Beta"
+    },
+    {
+      "person": "Steven Taylor",
+      "project": "Virtual-X"
+    },
+    {
+      "person": "Steven Taylor",
+      "project": "Virtual-Y"
+    },
+    {
+      "person": "Steven Taylor",
+      "project": "Virtual-Z"
+    },
+    {
+      "person": "Michelle White",
+      "project": "Linux-Core"
+    },
+    {
+      "person": "Daniel Kim",
+      "project": "AirFlow"
+    },
+    {
+      "person": "Daniel Kim",
+      "project": "AirStream"
+    },
+    {
+      "person": "Daniel Kim",
+      "project": "AirSync"
+    },
+    {
+      "person": "Catherine Jones",
+      "project": "TweetDeck-2"
+    },
+    {
+      "person": "Catherine Jones",
+      "project": "TwitterAPI-v3"
+    },
+    {
+      "person": "Andrew Chen",
+      "project": "LinkedData"
+    },
+    {
+      "person": "Andrew Chen",
+      "project": "ProfileEngine"
+    },
+    {
+      "person": "Andrew Chen",
+      "project": "NetworkGraph"
+    },
+    {
+      "person": "Andrew Chen",
+      "project": "JobMatcher"
+    },
+    {
+      "person": "Sophia Rodriguez",
+      "project": "PinBoard-Mobile"
+    },
+    {
+      "person": "Nathan Williams",
+      "project": "SecureVault"
+    },
+    {
+      "person": "Nathan Williams",
+      "project": "CryptoGuard"
+    },
+    {
+      "person": "Olivia Brown",
+      "project": "SlackBot-AI"
+    },
+    {
+      "person": "Olivia Brown",
+      "project": "ChannelSync"
+    },
+    {
+      "person": "Olivia Brown",
+      "project": "WorkspaceHub"
+    },
+    {
+      "person": "Christopher Davis",
+      "project": "VideoCodec-X"
+    },
+    {
+      "person": "Christopher Davis",
+      "project": "MeetingRoom-Pro"
+    },
+    {
+      "person": "Amanda Miller",
+      "project": "ShopEngine-v2"
+    },
+    {
+      "person": "Ryan Garcia",
+      "project": "PaymentGateway"
+    },
+    {
+      "person": "Ryan Garcia",
+      "project": "SquareAPI"
+    },
+    {
+      "person": "Ryan Garcia",
+      "project": "TransactionEngine"
+    },
+    {
+      "person": "Jessica Wilson",
+      "project": "SignatureAPI"
+    },
+    {
+      "person": "Jessica Wilson",
+      "project": "DocumentFlow"
+    }
+  ],
+  "LeadsProject": [],
+  "OverseesProject": [],
+  "SupervisesProject": [],
+  "HandlesProject": [],
+  "CoordinatesProject": [],
+  "DirectsProject": [],
+  "ProjectHasDates": [
+    {
+      "project": "Alpha",
+      "start_date": "2023-01-15",
+      "end_date": "2023-06-30"
+    },
+    {
+      "project": "Beta",
+      "start_date": "2023-02-01",
+      "end_date": "2023-08-15"
+    },
+    {
+      "project": "Gamma",
+      "start_date": "2023-03-10",
+      "end_date": "2023-09-20"
+    },
+    {
+      "project": "Delta",
+      "start_date": "2023-01-20",
+      "end_date": "2023-07-10"
+    },
+    {
+      "project": "Epsilon",
+      "start_date": "2023-04-05",
+      "end_date": "2023-10-12"
+    },
+    {
+      "project": "Zeta",
+      "start_date": "2023-02-15",
+      "end_date": "2023-12-01"
+    },
+    {
+      "project": "Eta",
+      "start_date": "2023-05-01",
+      "end_date": "2024-01-30"
+    },
+    {
+      "project": "Theta",
+      "start_date": "2023-03-20",
+      "end_date": "2023-11-15"
+    },
+    {
+      "project": "Iota",
+      "start_date": "2023-06-01",
+      "end_date": "2024-02-28"
+    },
+    {
+      "project": "Kappa",
+      "start_date": "2023-01-10",
+      "end_date": "2023-05-25"
+    },
+    {
+      "project": "Lambda",
+      "start_date": "2023-07-01",
+      "end_date": "2024-03-15"
+    },
+    {
+      "project": "Mu",
+      "start_date": "2023-04-15",
+      "end_date": "2023-12-20"
+    },
+    {
+      "project": "Nu",
+      "start_date": "2023-08-01",
+      "end_date": "2024-04-10"
+    },
+    {
+      "project": "Xi",
+      "start_date": "2023-05-10",
+      "end_date": "2024-01-05"
+    },
+    {
+      "project": "Omicron",
+      "start_date": "2023-09-01",
+      "end_date": "2024-05-20"
+    },
+    {
+      "project": "Pi",
+      "start_date": "2023-03-25",
+      "end_date": "2023-10-30"
+    },
+    {
+      "project": "Rho",
+      "start_date": "2023-06-15",
+      "end_date": "2024-01-12"
+    },
+    {
+      "project": "Sigma",
+      "start_date": "2023-02-28",
+      "end_date": "2023-11-30"
+    },
+    {
+      "project": "Tau",
+      "start_date": "2023-07-20",
+      "end_date": "2024-02-15"
+    },
+    {
+      "project": "Upsilon",
+      "start_date": "2023-04-30",
+      "end_date": "2024-01-25"
+    },
+    {
+      "project": "Phi",
+      "start_date": "2023-08-15",
+      "end_date": "2024-03-30"
+    },
+    {
+      "project": "Chi",
+      "start_date": "2023-05-25",
+      "end_date": "2024-02-10"
+    },
+    {
+      "project": "Psi",
+      "start_date": "2023-09-10",
+      "end_date": "2024-04-25"
+    },
+    {
+      "project": "Omega",
+      "start_date": "2023-06-30",
+      "end_date": "2024-03-05"
+    },
+    {
+      "project": "Alpha-2",
+      "start_date": "2023-10-01",
+      "end_date": "2024-06-15"
+    },
+    {
+      "project": "Beta-2",
+      "start_date": "2023-11-15",
+      "end_date": "2024-07-30"
+    },
+    {
+      "project": "Gamma-2",
+      "start_date": "2023-12-01",
+      "end_date": "2024-08-20"
+    },
+    {
+      "project": "Nova",
+      "start_date": "2023-08-01",
+      "end_date": "2024-01-15"
+    },
+    {
+      "project": "Stellar",
+      "start_date": "2023-09-15",
+      "end_date": "2024-03-30"
+    },
+    {
+      "project": "Cosmic",
+      "start_date": "2023-07-10",
+      "end_date": "2024-02-20"
+    },
+    {
+      "project": "Galactic",
+      "start_date": "2023-10-05",
+      "end_date": "2024-05-10"
+    },
+    {
+      "project": "Universal",
+      "start_date": "2023-11-20",
+      "end_date": "2024-06-25"
+    },
+    {
+      "project": "Quantum",
+      "start_date": "2023-06-05",
+      "end_date": "2023-12-15"
+    },
+    {
+      "project": "Photon",
+      "start_date": "2023-04-20",
+      "end_date": "2023-11-05"
+    },
+    {
+      "project": "Electron",
+      "start_date": "2023-07-25",
+      "end_date": "2024-01-20"
+    },
+    {
+      "project": "Neutron",
+      "start_date": "2023-08-30",
+      "end_date": "2024-04-05"
+    },
+    {
+      "project": "Proton",
+      "start_date": "2023-09-20",
+      "end_date": "2024-02-28"
+    },
+    {
+      "project": "Circuit",
+      "start_date": "2023-05-15",
+      "end_date": "2023-12-30"
+    },
+    {
+      "project": "Binary",
+      "start_date": "2023-10-10",
+      "end_date": "2024-05-25"
+    },
+    {
+      "project": "Network-A",
+      "start_date": "2023-03-05",
+      "end_date": "2023-09-15"
+    },
+    {
+      "project": "Network-B",
+      "start_date": "2023-06-20",
+      "end_date": "2024-01-10"
+    },
+    {
+      "project": "Network-C",
+      "start_date": "2023-08-10",
+      "end_date": "2024-03-20"
+    },
+    {
+      "project": "Server-Prime",
+      "start_date": "2023-07-05",
+      "end_date": "2024-02-05"
+    },
+    {
+      "project": "Support-Alpha",
+      "start_date": "2023-09-01",
+      "end_date": "2024-04-15"
+    },
+    {
+      "project": "Support-Beta",
+      "start_date": "2023-11-10",
+      "end_date": "2024-06-30"
+    },
+    {
+      "project": "Virtual-X",
+      "start_date": "2023-05-30",
+      "end_date": "2024-01-30"
+    },
+    {
+      "project": "Virtual-Y",
+      "start_date": "2023-08-20",
+      "end_date": "2024-04-20"
+    },
+    {
+      "project": "Virtual-Z",
+      "start_date": "2023-10-25",
+      "end_date": "2024-07-10"
+    },
+    {
+      "project": "Linux-Core",
+      "start_date": "2023-12-05",
+      "end_date": "2024-08-15"
+    },
+    {
+      "project": "AirFlow",
+      "start_date": "2023-02-10",
+      "end_date": "2023-08-25"
+    },
+    {
+      "project": "AirStream",
+      "start_date": "2023-05-05",
+      "end_date": "2023-11-20"
+    },
+    {
+      "project": "AirSync",
+      "start_date": "2023-07-15",
+      "end_date": "2024-01-30"
+    },
+    {
+      "project": "TweetDeck-2",
+      "start_date": "2023-04-01",
+      "end_date": "2023-10-15"
+    },
+    {
+      "project": "TwitterAPI-v3",
+      "start_date": "2023-08-05",
+      "end_date": "2024-02-20"
+    },
+    {
+      "project": "LinkedData",
+      "start_date": "2023-03-15",
+      "end_date": "2023-09-30"
+    },
+    {
+      "project": "ProfileEngine",
+      "start_date": "2023-06-10",
+      "end_date": "2023-12-25"
+    },
+    {
+      "project": "NetworkGraph",
+      "start_date": "2023-09-05",
+      "end_date": "2024-03-20"
+    },
+    {
+      "project": "JobMatcher",
+      "start_date": "2023-11-01",
+      "end_date": "2024-05-15"
+    },
+    {
+      "project": "PinBoard-Mobile",
+      "start_date": "2023-01-25",
+      "end_date": "2023-07-40"
+    },
+    {
+      "project": "SecureVault",
+      "start_date": "2023-04-10",
+      "end_date": "2023-10-25"
+    },
+    {
+      "project": "CryptoGuard",
+      "start_date": "2023-07-01",
+      "end_date": "2024-01-15"
+    },
+    {
+      "project": "SlackBot-AI",
+      "start_date": "2023-05-20",
+      "end_date": "2023-11-05"
+    },
+    {
+      "project": "ChannelSync",
+      "start_date": "2023-08-15",
+      "end_date": "2024-02-28"
+    },
+    {
+      "project": "WorkspaceHub",
+      "start_date": "2023-10-30",
+      "end_date": "2024-04-15"
+    },
+    {
+      "project": "VideoCodec-X",
+      "start_date": "2023-03-30",
+      "end_date": "2023-09-15"
+    },
+    {
+      "project": "MeetingRoom-Pro",
+      "start_date": "2023-06-25",
+      "end_date": "2024-01-10"
+    },
+    {
+      "project": "ShopEngine-v2",
+      "start_date": "2023-09-20",
+      "end_date": "2024-05-05"
+    },
+    {
+      "project": "PaymentGateway",
+      "start_date": "2023-02-20",
+      "end_date": "2023-08-35"
+    },
+    {
+      "project": "SquareAPI",
+      "start_date": "2023-07-30",
+      "end_date": "2024-02-15"
+    },
+    {
+      "project": "TransactionEngine",
+      "start_date": "2023-11-25",
+      "end_date": "2024-07-10"
+    },
+    {
+      "project": "SignatureAPI",
+      "start_date": "2023-04-25",
+      "end_date": "2023-11-10"
+    },
+    {
+      "project": "DocumentFlow",
+      "start_date": "2023-08-25",
+      "end_date": "2024-04-10"
+    }
+  ],
+  "PersonHasPosition": [],
+  "PersonBelongsToDepartment": [],
+  "CompanyOperatesInIndustry": [
+    {
+      "company": "OpenAI",
+      "industry": "the Technology industry"
+    },
+    {
+      "company": "Google",
+      "industry": "Technology and Internet Services"
+    },
+    {
+      "company": "Microsoft",
+      "industry": "Technology and Software industry"
+    },
+    {
+      "company": "Apple",
+      "industry": "Technology and Consumer Electronics"
+    },
+    {
+      "company": "Amazon",
+      "industry": "Technology and E-commerce sectors"
+    },
+    {
+      "company": "Meta",
+      "industry": "Technology and Social Media industry"
+    },
+    {
+      "company": "Tesla",
+      "industry": "Automotive and Clean Energy"
+    },
+    {
+      "company": "Netflix",
+      "industry": "Entertainment and Streaming industry"
+    },
+    {
+      "company": "Spotify",
+      "industry": "Music and Audio Technology"
+    },
+    {
+      "company": "Uber",
+      "industry": "Transportation and Technology"
+    },
+    {
+      "company": "IBM",
+      "industry": "Technology and Enterprise Solutions industry"
+    },
+    {
+      "company": "Oracle",
+      "industry": "Database and Enterprise Software"
+    },
+    {
+      "company": "Salesforce",
+      "industry": "CRM and Cloud Computing industry"
+    },
+    {
+      "company": "Adobe",
+      "industry": "Creative Software and Digital Marketing"
+    },
+    {
+      "company": "Intel",
+      "industry": "Semiconductors and Technology sectors"
+    },
+    {
+      "company": "Cisco",
+      "industry": "Networking and Technology industry"
+    },
+    {
+      "company": "HP",
+      "industry": "Computing and Printing Technology"
+    },
+    {
+      "company": "Dell",
+      "industry": "Technology and Computer Hardware"
+    },
+    {
+      "company": "VMware",
+      "industry": "Virtualization and Cloud Computing"
+    },
+    {
+      "company": "RedHat",
+      "industry": "Open Source and Enterprise Linux"
+    },
+    {
+      "company": "Airbnb",
+      "industry": "Travel and Hospitality Technology industry"
+    },
+    {
+      "company": "Twitter",
+      "industry": "Social Media and Communication Technology"
+    },
+    {
+      "company": "LinkedIn",
+      "industry": "Professional Networking and Career Services"
+    },
+    {
+      "company": "Pinterest",
+      "industry": "Social Media and Visual Discovery"
+    },
+    {
+      "company": "Dropbox",
+      "industry": "Cloud Storage and File Sharing sectors"
+    },
+    {
+      "company": "Slack",
+      "industry": "Business Communication and Collaboration"
+    },
+    {
+      "company": "Zoom",
+      "industry": "Video Conferencing and Communications"
+    },
+    {
+      "company": "Shopify",
+      "industry": "E-commerce and Retail Technology"
+    },
+    {
+      "company": "Square",
+      "industry": "Financial Technology and Payment Processing"
+    },
+    {
+      "company": "DocuSign",
+      "industry": "Digital Signature and Document Management"
+    }
+  ],
+  "CompanyInSector": [],
+  "CompanyLocatedIn": [],
+  "ProjectOwnedByCompany": [],
+  "TeamUsesTechnology": [],
+  "ProjectUsesTechnology": [],
+  "ProductBuiltByCompany": [],
+  "ClientContractsProduct": [],
+  "ClientOfCompany": [],
+  "TeamPartOfDepartment": [],
+  "DepartmentPartOfCompany": [],
+  "PersonMemberOfTeam": [],
+  "PersonUsesTechnology": [],
+  "ProjectHasBudget": [],
+  "ProjectHasStatus": [],
+  "ProductReleasedOn": [],
+  "PositionHasSalaryRange": [],
+  "TeamFocusedOn": [],
+  "CompanyOwnsProduct": []
+}
