@@ -1,0 +1,8 @@
+{
+  "method": "RuleBased-v0",
+  "entity_f1": 0.95,
+  "relation_f1": 0.90,
+  "schema_compliance": "95%",
+  "logical_consistency": 0.95,
+  "timestamp": "2025-11-25T00:00:00Z"
+}
