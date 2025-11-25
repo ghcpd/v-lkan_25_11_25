@@ -1,0 +1,3 @@
+# Minimal requirements for KGEB benchmark
+python-dateutil
+pytest>=6.0

@@ -1,0 +1,12 @@
+{
+  "WorksAt": [
+    {"person": "John Doe", "company": "OpenAI"},
+    {"person": "Jane Smith", "company": "Google"},
+    {"person": "Michael Brown", "company": "Microsoft"}
+  ],
+  "ManagesProject": [
+    {"person": "John Doe", "project": "Alpha"},
+    {"person": "John Doe", "project": "Beta"},
+    {"person": "John Doe", "project": "Gamma"}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Person": [
+    {"name": "John Doe", "age": 32, "position": "Researcher", "department": null},
+    {"name": "Jane Smith", "age": 28, "position": "Engineer", "department": null},
+    {"name": "Michael Brown", "age": 45, "position": "Senior Developer", "department": null},
+    {"name": "Sarah Wilson", "age": 35, "position": "Product Manager", "department": null},
+    {"name": "David Johnson", "age": 29, "position": "Data Scientist", "department": null}
+  ],
+  "Company": [
+    {"name": "OpenAI", "industry": "Technology", "sector": null, "location": null},
+    {"name": "Google", "industry": "Technology and Internet Services", "sector": null, "location": null},
+    {"name": "Microsoft", "industry": "Technology and Software", "sector": null, "location": null}
+  ],
+  "Project": [
+    {"name": "Alpha", "start_date": "2023-01-15", "end_date": "2023-06-30", "status": "completed", "budget": null},
+    {"name": "Beta", "start_date": "2023-02-01", "end_date": "2023-08-15", "status": "completed", "budget": null},
+    {"name": "Gamma", "start_date": "2023-03-10", "end_date": "2023-09-20", "status": "completed", "budget": null}
+  ],
+  "Department": [],
+  "Position": [],
+  "Technology": [],
+  "Location": [],
+  "Team": [],
+  "Product": [],
+  "Client": []
+}

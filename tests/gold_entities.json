@@ -1,0 +1,14 @@
+{
+  "Person": [
+    {"name": "John Doe", "age": 32, "position": "Researcher", "department": null},
+    {"name": "Jane Smith", "age": 28, "position": "Engineer", "department": null},
+    {"name": "Michael Brown", "age": 45, "position": "Senior Developer", "department": null}
+  ],
+  "Company": [
+    {"name": "OpenAI", "industry": "Technology", "sector": null, "location": null},
+    {"name": "Google", "industry": "Technology and Internet Services", "sector": null, "location": null}
+  ],
+  "Project": [
+    {"name": "Alpha", "start_date": null, "end_date": null, "status": null, "budget": null}
+  ]
+}
