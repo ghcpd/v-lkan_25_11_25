@@ -1,0 +1,15 @@
+{
+  "entity_count": {
+    "Person": 30,
+    "Company": 1,
+    "Project": 72
+  },
+  "relation_count": {
+    "BelongsTo": 30,
+    "Manages": 65,
+    "CompanyIndustry": 1
+  },
+  "schema_compliance": "100.00%",
+  "issues": [],
+  "timestamp": "2025-11-25T05:59:15.411137Z"
+}
