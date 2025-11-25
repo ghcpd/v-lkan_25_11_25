@@ -1,0 +1,18 @@
+{
+  "method": "<method name/version>",
+  "timestamp": "<ISO timestamp>",
+  "environment": "<OS / Python / Hardware>",
+  "entity": {
+    "precision": null,
+    "recall": null,
+    "f1": null,
+    "schema_compliance": null
+  },
+  "relation": {
+    "precision": null,
+    "recall": null,
+    "f1": null,
+    "logical_consistency": null
+  },
+  "notes": []
+}

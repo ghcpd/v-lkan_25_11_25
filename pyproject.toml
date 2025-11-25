@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kgeb"
+version = "0.1.0"
+description = "Enterprise Knowledge Graph Extraction Benchmark"
+authors = [{ name = "Open Source Community" }]
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+]
+dependencies = [
+    "python-dateutil>=2.8.2",
+    "pydantic>=2.4.0",
+]
+
+[tool.setuptools]
+packages = ["kgeb"]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-cov>=4.1.0",
+]
+
+[project.scripts]
+kgeb = "kgeb.cli:main"
